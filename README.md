@@ -29,3 +29,15 @@ git push -u origin master
 ```
 git commit -am "Changes made to README.md"
 ```
+
+```
+git config --list
+```
+
+```
+git remote -v
+```
+
+```
+git log --stat
+```
