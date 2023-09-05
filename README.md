@@ -41,3 +41,23 @@ git remote -v
 ```
 git log --stat
 ```
+
+## Make virtual environment
+```
+python -m venv vevn
+```
+## Make requirements.txt
+Add Flask in requirements.txt
+```
+touch requirements.txt
+```
+## Activate virtual environment
+```
+source vevn/Scripts/activate
+```
+## PIP commands
+
+```
+pip install -r requirements.txt
+```
+## Create .gitignore file and add /vevn
